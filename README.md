@@ -7,10 +7,10 @@
 
 ## Cycling results
 
-- 2025 Giant 骑行盛典 U25 P43
-- 2025 Hainan UCI Granfondo World Series S1 P24
-- 2025 Hainan UCI Granfondo World Series S2 P14
-- 2025 Hainan UCI Granfondo World Series S3 P21
+- 2025 Giant 骑行盛典 U25 — P43
+- 2025 Hainan UCI Granfondo World Series S1 — P24
+- 2025 Hainan UCI Granfondo World Series S2 — P14
+- 2025 Hainan UCI Granfondo World Series S3 — P21
 
 ## Race calendar
 
