@@ -8,7 +8,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
+**Last 7 days:** 6 activities · 427.6 km · 12h51m · Load 605
 
+![Training load last 30 days](assets/intervals-load.svg)
+
+| Date | Activity | Type | Distance | Time | Load |
+| --- | --- | --- | --- | --- | --- |
+| 2026-02-04 | Anaerobic Capacity Development | VirtualRide | 36.7 km | 1h26m | 121 |
+| 2026-02-03 | Night Run | Run | 5.0 km | 29m | 26 |
+| 2026-02-01 | Z2 Endurance🐫 | VirtualRide | 143.5 km | 4h02m | 168 |
+| 2026-01-31 | Z2 Endurance | Ride | 103.4 km | 2h50m | 111 |
+| 2026-01-30 | Z2 Endurance | VirtualRide | 138.9 km | 4h04m | 179 |
 <!-- INTERVALS_ICU:END -->
 
 
