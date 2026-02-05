@@ -5,6 +5,18 @@
 - 📫 How to reach me: equationzhao@foxmail.com
 - 🌍 Welcome to https://blog.equationzhao.space
 
+## Cycling results
+
+- 2025 Giant 骑行盛典 U25 P43
+- 2025 Hainan UCI Granfondo World Series S1 P24
+- 2025 Hainan UCI Granfondo World Series S2 P14
+- 2025 Hainan UCI Granfondo World Series S3 P21
+
+## Race calendar
+
+- 2nd UCI Gran Fondo Hangzhou — 23–24 May 2026
+- UCI Gran Fondo World Championships (Niseko, Japan) — 26–30 Aug 2026
+
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
