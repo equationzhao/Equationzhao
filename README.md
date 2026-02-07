@@ -20,7 +20,7 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 6 activities · 325.3 km · 10h04m · Load 502
+**Last 7 days:** 4 activities · 221.9 km · 7h14m · Load 391
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
