@@ -20,17 +20,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 4 activities · 198.9 km · 6h43m · Load 381
+**Last 7 days:** 5 activities · 260.0 km · 9h31m · Load 537
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Load |
 | --- | --- | --- | --- | --- | --- |
-| 2026-02-07 | Z2 Endurance🐫 | Ride | 120.5 km | 3h31m | 158 |
+| 2026-02-08 | 你永远可以相信小土路的坡度 | Ride | 61.1 km | 2h47m | 156 |
+| 2026-02-07 | Z2 Endurance🐫 | VirtualRide | 120.5 km | 3h31m | 158 |
 | 2026-02-05 | Low cadence 4×5 | Ride | 36.7 km | 1h17m | 76 |
 | 2026-02-04 | Anaerobic Capacity Development | VirtualRide | 36.7 km | 1h26m | 121 |
 | 2026-02-03 | Night Run | Run | 5.0 km | 29m | 26 |
-| 2026-02-01 | Z2 Endurance🐫 | VirtualRide | 143.5 km | 4h02m | 168 |
 <!-- INTERVALS_ICU:END -->
 
 
