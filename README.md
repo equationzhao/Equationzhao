@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![wakatime](https://wakatime.com/badge/user/90d4bbc2-a779-4bb1-a2a2-572e90fc4e29.svg)](https://wakatime.com/@90d4bbc2-a779-4bb1-a2a2-572e90fc4e29)
 - 🔭 I’m currently working on go/web3
-- 🚲 Amateur cyclist!
+- 🚲 Amateur cyclist! Follow me in 👉 [strava](https://www.strava.com/athletes/136584058)
 - 📫 How to reach me: equationzhao@foxmail.com
 - 🌍 Welcome to https://blog.equationzhao.space
 
@@ -14,6 +14,7 @@
 
 ## Race calendar
 
+- 2026 凤凰菲尼斯环浙步道 HEROS 开化站 — 29 Mar 2026
 - 2nd UCI Gran Fondo Hangzhou — 23–24 May 2026
 - UCI Gran Fondo World Championships (Niseko, Japan) — 26–30 Aug 2026
 
