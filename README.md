@@ -1,9 +1,45 @@
 ### Hi there 👋
 [![wakatime](https://wakatime.com/badge/user/90d4bbc2-a779-4bb1-a2a2-572e90fc4e29.svg)](https://wakatime.com/@90d4bbc2-a779-4bb1-a2a2-572e90fc4e29)
-- 🔭 I’m currently working on go/web3
+- 🔭 I'm currently working on go/web3
 - 🚲 Amateur cyclist! Follow me in 👉 [strava](https://www.strava.com/athletes/136584058)
 - 📫 How to reach me: equationzhao@foxmail.com
 - 🌍 Welcome to https://blog.equationzhao.space
+
+## Strava Profile
+
+<!-- STRAVA_PROFILE:START -->
+### 🚴 Equation💨 赵方程
+> 好的方程列出来有诗的美感
+📍 上海, Hong Kong
+
+#### 📊 Lifetime Stats
+| | Ride | Run |
+| --- | --- | --- |
+| Distance | 13620.5 km | 444.6 km |
+| Time | 567h 29m | 57h 27m |
+| Activities | 715 | 204 |
+| Elevation Gain | 62.1 km | 3.2 km |
+
+#### 🏆 Personal Records
+- 🚴 Longest Ride: 171.9 km
+- ⛰️ Biggest Climb: 0.8 km
+<!-- STRAVA_PROFILE:END -->
+
+## Intervals.icu
+
+<!-- INTERVALS_ICU:START -->
+**Last 7 days:** 6 activities · 265.4 km · 9h58m · Load 551
+
+![Training load last 30 days](assets/intervals-load.svg)
+
+| Date | Activity | Type | Distance | Time | Elevation | Load |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026-02-11 | 天黑放坡中 | Ride | 28.1 km | 1h11m | 349 m | 60 |
+| 2026-02-11 | 岙底坑 climb | Ride | 14.4 km | 42m | 501 m | 57 |
+| 2026-02-10 | 温州市 公路骑行 | Ride | 33.5 km | 1h20m | 564 m | 84 |
+| 2026-02-10 | 再来一次 | Ride | 7.9 km | 25m | 217 m | 36 |
+| 2026-02-08 | 你永远可以相信小土路的坡度 | Ride | 61.1 km | 2h47m | 1320 m | 156 |
+<!-- INTERVALS_ICU:END -->
 
 ## Cycling results
 
@@ -17,23 +53,6 @@
 - 2026 凤凰菲尼斯环浙步道 HEROS 开化站 — 29 Mar 2026
 - 2nd UCI Gran Fondo Hangzhou — 23–24 May 2026
 - UCI Gran Fondo World Championships (Niseko, Japan) — 26–30 Aug 2026
-
-## Intervals.icu
-
-<!-- INTERVALS_ICU:START -->
-**Last 7 days:** 5 activities · 259.6 km · 9h21m · Load 510
-
-![Training load last 30 days](assets/intervals-load.svg)
-
-| Date | Activity | Type | Distance | Time | Elevation | Load |
-| --- | --- | --- | --- | --- | --- | --- |
-| 2026-02-10 | 再次朝阳山 | Ride | 33.5 km | 1h20m | 564 m | 84 |
-| 2026-02-10 | 再来一次 | Ride | 7.9 km | 25m | 217 m | 36 |
-| 2026-02-08 | 你永远可以相信小土路的坡度 | Ride | 61.1 km | 2h47m | 1320 m | 156 |
-| 2026-02-07 | Z2 Endurance🐫 | VirtualRide | 120.5 km | 3h31m | - | 158 |
-| 2026-02-05 | Low cadence 4×5 | Ride | 36.7 km | 1h17m | - | 76 |
-<!-- INTERVALS_ICU:END -->
-
 
 # Github state
 
