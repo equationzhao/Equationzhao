@@ -10,13 +10,40 @@ from pathlib import Path
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
+try:
+    from dotenv import load_dotenv
+
+    load_dotenv()
+except ImportError:
+    pass
+
+
+def load_env_file() -> dict[str, str]:
+    env_file = Path(__file__).parent.parent / ".env"
+    if not env_file.exists():
+        return {}
+    env_vars = {}
+    with open(env_file, encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+            key, value = line.split("=", 1)
+            env_vars[key.strip()] = value.strip()
+    return env_vars
+
+
 BASE_URL = "https://intervals.icu"
 START_MARKER = "<!-- INTERVALS_ICU:START -->"
 END_MARKER = "<!-- INTERVALS_ICU:END -->"
 
 
 def get_env(name: str, default: str | None = None, required: bool = False) -> str | None:
-    value = os.getenv(name, default)
+    value = os.getenv(name)
+    if not value:
+        env_vars = load_env_file()
+        value = env_vars.get(name)
+    value = value if value is not None else default
     if required and not value:
         raise SystemExit(f"Missing required env var: {name}")
     return value
@@ -68,6 +95,12 @@ def format_load(load: float | None) -> str:
     if load is None:
         return "-"
     return str(int(round(load)))
+
+
+def format_elevation(elevation_m: float | None) -> str:
+    if not elevation_m:
+        return "-"
+    return f"{elevation_m:.0f} m"
 
 
 def escape_md(value: str) -> str:
@@ -172,6 +205,8 @@ def main() -> None:
                 "duration": item.get("moving_time") or item.get("elapsed_time"),
                 "load": load_value,
                 "load_display": format_load(load_value),
+                "elevation": item.get("total_elevation_gain"),
+                "elevation_display": format_elevation(item.get("total_elevation_gain")),
             }
         )
 
@@ -212,18 +247,19 @@ def main() -> None:
     if recent:
         lines.extend(
             [
-                "| Date | Activity | Type | Distance | Time | Load |",
-                "| --- | --- | --- | --- | --- | --- |",
+                "| Date | Activity | Type | Distance | Time | Elevation | Load |",
+                "| --- | --- | --- | --- | --- | --- | --- |",
             ]
         )
         for activity in recent:
             lines.append(
-                "| {date} | {name} | {type} | {distance} | {time} | {load} |".format(
+                "| {date} | {name} | {type} | {distance} | {time} | {elevation} | {load} |".format(
                     date=activity["date"].isoformat(),
                     name=escape_md(str(activity["name"])),
                     type=escape_md(str(activity["type"])),
                     distance=format_distance(activity["distance"]),
                     time=format_duration(activity["duration"]),
+                    elevation=activity["elevation_display"],
                     load=activity["load_display"],
                 )
             )
