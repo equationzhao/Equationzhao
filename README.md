@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![wakatime](https://wakatime.com/badge/user/90d4bbc2-a779-4bb1-a2a2-572e90fc4e29.svg)](https://wakatime.com/@90d4bbc2-a779-4bb1-a2a2-572e90fc4e29)
 - 🔭 I'm currently working on go/web3
-- 🚲 Amateur cyclist! Follow me in 👉 [strava](https://www.strava.com/athletes/136584058)
+- 🚲 Amateur cyclist! Follow me on 👉 [strava](https://www.strava.com/athletes/136584058)
 - 📫 How to reach me: equationzhao@foxmail.com
 - 🌍 Welcome to https://blog.equationzhao.space
 
