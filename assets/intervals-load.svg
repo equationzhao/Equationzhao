@@ -1,33 +1,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="120" viewBox="0 0 320 120" role="img" aria-label="Training load last 30 days">
   <line x1="10" y1="110" x2="310" y2="110" stroke="#8c959f" stroke-width="1" />
-  <rect x="10.00" y="32.91" width="8.07" height="77.09" rx="1" fill="#58a6ff" />
-  <rect x="20.07" y="27.32" width="8.07" height="82.68" rx="1" fill="#58a6ff" />
-  <rect x="30.13" y="110.00" width="8.07" height="0.00" rx="1" fill="#58a6ff" />
-  <rect x="40.20" y="40.73" width="8.07" height="69.27" rx="1" fill="#58a6ff" />
-  <rect x="50.27" y="110.00" width="8.07" height="0.00" rx="1" fill="#58a6ff" />
-  <rect x="60.33" y="42.40" width="8.07" height="67.60" rx="1" fill="#58a6ff" />
-  <rect x="70.40" y="42.40" width="8.07" height="67.60" rx="1" fill="#58a6ff" />
-  <rect x="80.47" y="18.94" width="8.07" height="91.06" rx="1" fill="#58a6ff" />
-  <rect x="90.53" y="23.41" width="8.07" height="86.59" rx="1" fill="#58a6ff" />
+  <rect x="10.00" y="37.80" width="8.07" height="72.20" rx="1" fill="#58a6ff" />
+  <rect x="20.07" y="110.00" width="8.07" height="0.00" rx="1" fill="#58a6ff" />
+  <rect x="30.13" y="49.51" width="8.07" height="60.49" rx="1" fill="#58a6ff" />
+  <rect x="40.20" y="110.00" width="8.07" height="0.00" rx="1" fill="#58a6ff" />
+  <rect x="50.27" y="50.98" width="8.07" height="59.02" rx="1" fill="#58a6ff" />
+  <rect x="60.33" y="50.98" width="8.07" height="59.02" rx="1" fill="#58a6ff" />
+  <rect x="70.40" y="30.49" width="8.07" height="79.51" rx="1" fill="#58a6ff" />
+  <rect x="80.47" y="34.39" width="8.07" height="75.61" rx="1" fill="#58a6ff" />
+  <rect x="90.53" y="110.00" width="8.07" height="0.00" rx="1" fill="#58a6ff" />
   <rect x="100.60" y="110.00" width="8.07" height="0.00" rx="1" fill="#58a6ff" />
-  <rect x="110.67" y="110.00" width="8.07" height="0.00" rx="1" fill="#58a6ff" />
-  <rect x="120.73" y="21.17" width="8.07" height="88.83" rx="1" fill="#58a6ff" />
-  <rect x="130.80" y="54.69" width="8.07" height="55.31" rx="1" fill="#58a6ff" />
-  <rect x="140.87" y="10.00" width="8.07" height="100.00" rx="1" fill="#58a6ff" />
-  <rect x="150.93" y="47.99" width="8.07" height="62.01" rx="1" fill="#58a6ff" />
-  <rect x="161.00" y="16.15" width="8.07" height="93.85" rx="1" fill="#58a6ff" />
-  <rect x="171.07" y="110.00" width="8.07" height="0.00" rx="1" fill="#58a6ff" />
-  <rect x="181.13" y="95.47" width="8.07" height="14.53" rx="1" fill="#58a6ff" />
-  <rect x="191.20" y="42.40" width="8.07" height="67.60" rx="1" fill="#58a6ff" />
-  <rect x="201.27" y="67.54" width="8.07" height="42.46" rx="1" fill="#58a6ff" />
-  <rect x="211.33" y="110.00" width="8.07" height="0.00" rx="1" fill="#58a6ff" />
-  <rect x="221.40" y="21.73" width="8.07" height="88.27" rx="1" fill="#58a6ff" />
-  <rect x="231.47" y="22.85" width="8.07" height="87.15" rx="1" fill="#58a6ff" />
-  <rect x="241.53" y="110.00" width="8.07" height="0.00" rx="1" fill="#58a6ff" />
-  <rect x="251.60" y="42.96" width="8.07" height="67.04" rx="1" fill="#58a6ff" />
-  <rect x="261.67" y="44.64" width="8.07" height="65.36" rx="1" fill="#58a6ff" />
-  <rect x="271.73" y="79.27" width="8.07" height="30.73" rx="1" fill="#58a6ff" />
-  <rect x="281.80" y="41.84" width="8.07" height="68.16" rx="1" fill="#58a6ff" />
-  <rect x="291.87" y="18.38" width="8.07" height="91.62" rx="1" fill="#58a6ff" />
+  <rect x="110.67" y="32.44" width="8.07" height="77.56" rx="1" fill="#58a6ff" />
+  <rect x="120.73" y="61.71" width="8.07" height="48.29" rx="1" fill="#58a6ff" />
+  <rect x="130.80" y="22.68" width="8.07" height="87.32" rx="1" fill="#58a6ff" />
+  <rect x="140.87" y="55.85" width="8.07" height="54.15" rx="1" fill="#58a6ff" />
+  <rect x="150.93" y="28.05" width="8.07" height="81.95" rx="1" fill="#58a6ff" />
+  <rect x="161.00" y="110.00" width="8.07" height="0.00" rx="1" fill="#58a6ff" />
+  <rect x="171.07" y="97.32" width="8.07" height="12.68" rx="1" fill="#58a6ff" />
+  <rect x="181.13" y="50.98" width="8.07" height="59.02" rx="1" fill="#58a6ff" />
+  <rect x="191.20" y="72.93" width="8.07" height="37.07" rx="1" fill="#58a6ff" />
+  <rect x="201.27" y="110.00" width="8.07" height="0.00" rx="1" fill="#58a6ff" />
+  <rect x="211.33" y="32.93" width="8.07" height="77.07" rx="1" fill="#58a6ff" />
+  <rect x="221.40" y="33.90" width="8.07" height="76.10" rx="1" fill="#58a6ff" />
+  <rect x="231.47" y="110.00" width="8.07" height="0.00" rx="1" fill="#58a6ff" />
+  <rect x="241.53" y="51.46" width="8.07" height="58.54" rx="1" fill="#58a6ff" />
+  <rect x="251.60" y="52.93" width="8.07" height="57.07" rx="1" fill="#58a6ff" />
+  <rect x="261.67" y="83.17" width="8.07" height="26.83" rx="1" fill="#58a6ff" />
+  <rect x="271.73" y="50.49" width="8.07" height="59.51" rx="1" fill="#58a6ff" />
+  <rect x="281.80" y="30.00" width="8.07" height="80.00" rx="1" fill="#58a6ff" />
+  <rect x="291.87" y="10.00" width="8.07" height="100.00" rx="1" fill="#58a6ff" />
   <rect x="301.93" y="110.00" width="8.07" height="0.00" rx="1" fill="#58a6ff" />
 </svg>
