@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 6 activities · 337.8 km · 13h21m · Load 663
+**Last 7 days:** 5 activities · 367.4 km · 13h56m · Load 667
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-02-17 | 🐎 | Ride | 72.2 km | 2h29m | 617 m | 121 |
 | 2026-02-15 | 168 | Ride | 135.2 km | 5h02m | 1674 m | 205 |
 | 2026-02-14 | 闹村 | Ride | 74.0 km | 2h43m | 837 m | 164 |
 | 2026-02-13 | 瞎骑溜达 | Ride | 76.0 km | 2h35m | 682 m | 122 |
 | 2026-02-12 | Night Run | Run | 10.0 km | 1h06m | 96 m | 55 |
-| 2026-02-11 | 天黑放坡中 | Ride | 28.1 km | 1h11m | 349 m | 60 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
