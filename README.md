@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 5 activities · 406.8 km · 15h16m · Load 738
+**Last 7 days:** 5 activities · 381.0 km · 14h13m · Load 647
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-02-20 | 马站回程 | Ride | 48.2 km | 1h40m | 626 m | 73 |
 | 2026-02-20 | 马站煎包，启动！ | Ride | 65.2 km | 2h17m | 772 m | 98 |
 | 2026-02-18 | 鳌江三个坡 | Ride | 60.3 km | 2h43m | 1088 m | 150 |
 | 2026-02-17 | 🐎 | Ride | 72.2 km | 2h29m | 617 m | 121 |
 | 2026-02-15 | 168 | Ride | 135.2 km | 5h02m | 1674 m | 205 |
-| 2026-02-14 | 闹村 | Ride | 74.0 km | 2h43m | 837 m | 164 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
