@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 8 activities · 387.4 km · 12h57m · Load 611
+**Last 7 days:** 9 activities · 423.4 km · 12h44m · Load 561
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-02-23 | Z2 | Ride | 72.4 km | 2h05m | - | 100 |
-| 2026-02-22 | 有氧复健 | Ride | 141.3 km | 4h10m | - | 190 |
+| 2026-02-24 | Z2 Endurance🐫 | VirtualRide | 96.3 km | 2h31m | - | 100 |
+| 2026-02-23 | Z2 | VirtualRide | 72.4 km | 2h05m | - | 100 |
+| 2026-02-22 | 有氧复健 | VirtualRide | 141.3 km | 4h10m | - | 190 |
 | 2026-02-20 | 马站回程 | Ride | 48.2 km | 1h40m | 626 m | 73 |
 | 2026-02-20 | 马站煎包，启动！ | Ride | 65.2 km | 2h17m | 772 m | 98 |
-| 2026-02-18 | 鳌江三个坡 | Ride | 60.3 km | 2h43m | 1088 m | 150 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
