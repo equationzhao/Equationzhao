@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 10 activities · 330.6 km · 9h53m · Load 483
+**Last 7 days:** 9 activities · 289.1 km · 8h55m · Load 510
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-03-08 | 午后骑行🤧 | VirtualRide | 54.2 km | 1h33m | 18 m | 143 |
 | 2026-03-07 | 😷😷😷Z2 | VirtualRide | 96.4 km | 3h10m | - | 139 |
 | 2026-03-05 | Low cadence Z5🦵💥 | VirtualRide | 45.0 km | 1h40m | - | 113 |
 | 2026-03-03 | Z2 Endurance🐫 | VirtualRide | 93.5 km | 2h31m | - | 115 |
 | 2026-03-02 | Z2 Endurance | VirtualRide | 95.7 km | 2h31m | - | 116 |
-| 2026-03-01 | looooong endurance🐫 | VirtualRide | 167.2 km | 4h30m | - | 188 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
