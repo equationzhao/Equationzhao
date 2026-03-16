@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 6 activities · 430.4 km · 13h46m · Load 640
+**Last 7 days:** 6 activities · 457.2 km · 15h05m · Load 684
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-03-15 | endurance ride | VirtualRide | 105.9 km | 3h30m | - | 143 |
 | 2026-03-14 | 杨浦区 公路骑行 | Ride | 80.8 km | 3h43m | 336 m | 140 |
 | 2026-03-13 | Z2 Endurance🐫 | Ride | 90.9 km | 2h31m | - | 113 |
 | 2026-03-13 | Lunch Run | Run | 3.0 km | 17m | 46 m | 15 |
 | 2026-03-12 | Lactate-Controlled Micro-Intervals 3x15m | Ride | 83.2 km | 2h31m | - | 151 |
-| 2026-03-10 | Z2 Endurance🐫 | VirtualRide | 93.3 km | 2h32m | - | 122 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
