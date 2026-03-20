@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 6 activities · 438.2 km · 15h03m · Load 664
+**Last 7 days:** 5 activities · 399.5 km · 14h10m · Load 665
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-03-19 | Z5 Intervals | Ride | 55.3 km | 1h55m | - | 129 |
 | 2026-03-18 | Z2 Endurance🐫 | VirtualRide | 78.8 km | 2h30m | - | 102 |
 | 2026-03-17 | sst 6×10 | VirtualRide | 78.7 km | 2h30m | - | 151 |
 | 2026-03-15 | endurance ride | VirtualRide | 105.9 km | 3h30m | - | 143 |
 | 2026-03-14 | 杨浦区 公路骑行 | Ride | 80.8 km | 3h43m | 336 m | 140 |
-| 2026-03-13 | Z2 Endurance🐫 | Ride | 90.9 km | 2h31m | - | 113 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
