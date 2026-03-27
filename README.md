@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 6 activities · 360.1 km · 12h10m · Load 653
+**Last 7 days:** 7 activities · 425.6 km · 14h30m · Load 782
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-03-26 | threshold + heat | Ride | 65.5 km | 2h20m | - | 144 |
 | 2026-03-25 | Z2 Endurance🐫 | Ride | 84.0 km | 2h30m | - | 113 |
 | 2026-03-24 | 30/15 Zone5 Intervals + 40m Heat | Ride | 77.9 km | 2h30m | - | 152 |
-| 2026-03-23 | ROUVY - Heat Training - 2026-03-23 | VirtualRide | 20.4 km | 52m | 273 m | 33 |
+| 2026-03-23 | ROUVY - Heat Training - 2026-03-23 | VirtualRide | 20.4 km | 52m | 273 m | 18 |
 | 2026-03-23 | ROUVY - Tutorial Ride \| Castell de Castells \| Spain | VirtualRide | 3.2 km | 9m | 58 m | 3 |
-| 2026-03-22 | 诸坞林道 | Ride | 74.0 km | 2h59m | 1483 m | 185 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
