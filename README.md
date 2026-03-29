@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 6 activities · 325.1 km · 11h22m · Load 615
+**Last 7 days:** 8 activities · 365.5 km · 11h45m · Load 643
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-03-29 | 2026 凤凰菲尼斯环浙步道 HEROS 开化站 | Ride | 77.6 km | 1h59m | 669 m | 116 |
+| 2026-03-29 | 衢州市 公路骑行 | Ride | 3.5 km | 8m | 32 m | 5 |
+| 2026-03-28 | 赛前探路👨‍🦯 | Ride | 33.3 km | 1h14m | 392 m | 92 |
 | 2026-03-26 | threshold + heat | Ride | 65.5 km | 2h20m | - | 144 |
 | 2026-03-25 | Z2 Endurance🐫 | Ride | 84.0 km | 2h30m | - | 113 |
-| 2026-03-24 | 30/15 Zone5 Intervals + 40m Heat | Ride | 77.9 km | 2h30m | - | 152 |
-| 2026-03-23 | ROUVY - Heat Training - 2026-03-23 | VirtualRide | 20.4 km | 52m | 273 m | 18 |
-| 2026-03-23 | ROUVY - Tutorial Ride \| Castell de Castells \| Spain | VirtualRide | 3.2 km | 9m | 58 m | 3 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
