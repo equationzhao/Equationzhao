@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 4 activities · 114.5 km · 3h56m · Load 219
+**Last 7 days:** 5 activities · 126.1 km · 5h15m · Load 285
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-04-02 | 复健 | Run | 11.6 km | 1h19m | 34 m | 66 |
 | 2026-04-01 | Night Weight Training | WeightTraining | - | 33m | - | 6 |
 | 2026-03-29 | 2026 凤凰菲尼斯环浙步道 HEROS 开化站 | Ride | 77.6 km | 1h59m | 669 m | 116 |
 | 2026-03-29 | 衢州市 公路骑行 | Ride | 3.5 km | 8m | 32 m | 5 |
 | 2026-03-28 | 赛前探路👨‍🦯 | Ride | 33.3 km | 1h14m | 392 m | 92 |
-| 2026-03-26 | threshold + heat | Ride | 65.5 km | 2h20m | - | 144 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
