@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 5 activities · 88.4 km · 4h18m · Load 208
+**Last 7 days:** 5 activities · 131.7 km · 5h15m · Load 260
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-04-09 | 傍晚骑行 | Ride | 48.5 km | 1h33m | - | 79 |
 | 2026-04-08 | 傍晚骑行 | VirtualRide | 43.0 km | 1h24m | - | 86 |
 | 2026-04-07 | 一周回到解放前🫪 | VirtualRide | 38.8 km | 1h17m | - | 75 |
 | 2026-04-05 | Night Weight Training | WeightTraining | - | 33m | - | 12 |
 | 2026-04-05 | Morning Hike | Hike | 1.4 km | 27m | 96 m | 8 |
-| 2026-04-03 | Night Run | Run | 5.2 km | 35m | 5 m | 27 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
