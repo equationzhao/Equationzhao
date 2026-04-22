@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 4 activities · 365.0 km · 11h03m · Load 463
+**Last 7 days:** 4 activities · 360.8 km · 11h04m · Load 480
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-04-21 | Zone5 Short Intervals + Heat | VirtualRide | 57.9 km | 2h00m | - | 113 |
 | 2026-04-19 | 崇明骑游大会 | Ride | 233.9 km | 6h54m | 284 m | 285 |
 | 2026-04-18 | 崇明区 公路骑行 | Ride | 3.0 km | 9m | 3 m | 5 |
 | 2026-04-16 | 晚间骑行 | VirtualRide | 66.0 km | 2h00m | - | 77 |
 | 2026-04-15 | 傍晚骑行 | VirtualRide | 62.1 km | 2h00m | - | 96 |
-| 2026-04-14 | 恢复 D2 | VirtualRide | 89.2 km | 2h30m | - | 100 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
