@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 5 activities · 244.7 km · 9h37m · Load 546
+**Last 7 days:** 5 activities · 272.0 km · 10h23m · Load 620
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-05-02 | 原来我骑的是单盘车🤡 | Ride | 27.3 km | 1h20m | 598 m | 86 |
 | 2026-04-29 | Endurance Ride | VirtualRide | 85.0 km | 2h32m | - | 127 |
 | 2026-04-28 | Zone5 Short Intervals | VirtualRide | 55.1 km | 2h02m | - | 145 |
 | 2026-04-26 | 南天目！ | Ride | 95.2 km | 4h05m | 1941 m | 255 |
 | 2026-04-26 | 晨间骑行 | Ride | 9.3 km | 23m | 9 m | 7 |
-| 2026-04-25 | recovery ride | VirtualRide | - | 34m | - | 12 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
