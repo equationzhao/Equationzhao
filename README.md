@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 4 activities · 179.8 km · 6h25m · Load 374
+**Last 7 days:** 5 activities · 239.8 km · 8h17m · Load 386
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-05-04 | 杨浦区 公路骑行 | Ride | 6.8 km | 19m | 12 m | 3 |
+| 2026-05-04 | 真有人绕 100 圈啊 | Ride | 108.3 km | 3h34m | 153 m | 154 |
 | 2026-05-03 | recovery ride | Ride | 12.4 km | 31m | - | 16 |
 | 2026-05-02 | 原来我骑的是单速车🤡 | Ride | 27.3 km | 1h20m | 598 m | 86 |
 | 2026-04-29 | Endurance Ride | VirtualRide | 85.0 km | 2h32m | - | 127 |
-| 2026-04-28 | Zone5 Short Intervals | VirtualRide | 55.1 km | 2h02m | - | 145 |
-| 2026-04-26 | 南天目！ | Ride | 95.2 km | 4h05m | 1941 m | 255 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
