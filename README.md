@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 7 activities · 331.6 km · 11h44m · Load 581
+**Last 7 days:** 7 activities · 337.6 km · 11h44m · Load 577
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-05-14 | endurance ride | VirtualRide | 87.0 km | 2h30m | - | 106 |
 | 2026-05-13 | Endurance Ride | VirtualRide | 59.9 km | 2h05m | - | 93 |
 | 2026-05-12 | Low cadence🦵🧨 | VirtualRide | 50.1 km | 2h05m | - | 109 |
 | 2026-05-10 | 茅山道士🧟‍♂️ | Ride | 110.2 km | 3h38m | 1510 m | 233 |
-| 2026-05-09 | 杨浦区 公路骑行 | Ride | 22.4 km | 59m | 51 m | 32 |
-| 2026-05-09 | 午间骑行 | Ride | 8.0 km | 25m | 33 m | 4 |
+| 2026-05-09 | 傍晚骑行 | Ride | 22.4 km | 59m | 51 m | 32 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
