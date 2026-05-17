@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 7 activities · 315.1 km · 11h10m · Load 552
+**Last 7 days:** 8 activities · 356.5 km · 12h43m · Load 665
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-05-17 | 环舟山半程 | Ride | 103.1 km | 3h12m | 917 m | 224 |
+| 2026-05-16 | 舟山雷达站 | Ride | 48.6 km | 1h59m | 752 m | 122 |
 | 2026-05-16 | 舟山市 公路骑行 | Ride | 7.9 km | 25m | 70 m | 5 |
 | 2026-05-15 | Night Weight Training | WeightTraining | - | 26m | - | 6 |
 | 2026-05-14 | endurance ride | VirtualRide | 87.0 km | 2h30m | - | 106 |
-| 2026-05-13 | Endurance Ride | VirtualRide | 59.9 km | 2h05m | - | 93 |
-| 2026-05-12 | Low cadence🦵🧨 | VirtualRide | 50.1 km | 2h05m | - | 109 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
