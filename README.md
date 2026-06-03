@@ -3,7 +3,7 @@
 - 🔭 I'm currently working on go/web3
 - 🚲 Amateur cyclist! Follow me on 👉 [strava](https://www.strava.com/athletes/136584058)
 - 📫 How to reach me: equationzhao@foxmail.com
-- 🌍 Welcome to https://blog.equationzhao.space
+- 🌍 Welcome to https://equationzhao.github.io
 
 ## Strava Profile
 
