@@ -8,6 +8,7 @@ import re
 from pathlib import Path
 from typing import Any
 from urllib.parse import urlencode
+from urllib.error import HTTPError
 from urllib.request import Request, urlopen
 
 try:
@@ -43,10 +44,22 @@ def get_env(name: str, default: str | None = None, required: bool = False) -> st
     if not value:
         env_vars = load_env_file()
         value = env_vars.get(name)
+    if value is not None:
+        value = value.strip()
     value = value if value is not None else default
     if required and not value:
         raise SystemExit(f"Missing required env var: {name}")
     return value
+
+
+def http_error_body(exc: Exception) -> str:
+    body = getattr(exc, "read", None)
+    if not body:
+        return ""
+    try:
+        return body().decode("utf-8", errors="replace")
+    except Exception:
+        return ""
 
 
 def refresh_access_token(client_id: str, client_secret: str, refresh_token: str) -> dict[str, Any]:
@@ -63,8 +76,17 @@ def refresh_access_token(client_id: str, client_secret: str, refresh_token: str)
         method="POST",
         headers={"Content-Type": "application/x-www-form-urlencoded"},
     )
-    with urlopen(request) as response:
-        return json.load(response)
+    try:
+        with urlopen(request) as response:
+            return json.load(response)
+    except HTTPError as exc:
+        detail = http_error_body(exc)
+        raise SystemExit(
+            f"Strava token refresh failed ({exc.code} {exc.reason}). "
+            f"Check STRAVA_CLIENT_ID, STRAVA_CLIENT_SECRET, and STRAVA_REFRESH_TOKEN "
+            f"(GitHub Secrets must match a valid refresh token for this app). "
+            f"Response: {detail or '(empty)'}"
+        ) from exc
 
 
 def fetch_json(path: str, access_token: str) -> dict[str, Any]:
@@ -138,11 +160,6 @@ def main() -> None:
 
     athlete = fetch_json("/athlete", access_token)
     stats = fetch_json(f"/athletes/{athlete['id']}/stats", access_token)
-
-    import pprint
-    print("=== Full Athlete Response ===")
-    pprint.pprint(athlete)
-    print("==============================")
 
     lines = []
 
