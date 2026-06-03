@@ -8,20 +8,20 @@
 ## Strava Profile
 
 <!-- STRAVA_PROFILE:START -->
-### 🚴 Equation💨 赵方程
+### 🚴 ⛰️🚴🏼‍♂️ 赵方程
 > 好的方程列出来有诗的美感
 📍 上海, Hong Kong
 
 #### 📊 Lifetime Stats
 | | Ride | Run |
 | --- | --- | --- |
-| Distance | 16259.3 km | 457.7 km |
-| Time | 656h 8m | 58h 51m |
-| Activities | 748 | 206 |
-| Elevation Gain | 70.9 km | 3.2 km |
+| Distance | 19752.3 km | 474.6 km |
+| Time | 765h 23m | 60h 46m |
+| Activities | 803 | 208 |
+| Elevation Gain | 81.8 km | 3.3 km |
 
 #### 🏆 Personal Records
-- 🚴 Longest Ride: 171.9 km
+- 🚴 Longest Ride: 233.9 km
 - ⛰️ Biggest Climb: 0.8 km
 <!-- STRAVA_PROFILE:END -->
 
