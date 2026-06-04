@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 6 activities · 378.0 km · 11h06m · Load 488
+**Last 7 days:** 8 activities · 439.2 km · 13h06m · Load 571
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-03 | 世界自行车日 | Ride | 61.2 km | 2h00m | - | 83 |
 | 2026-06-02 | Z2 Endurance🐫 | VirtualRide | 84.0 km | 2h30m | - | 123 |
 | 2026-06-01 | 🥵 | VirtualRide | 81.0 km | 2h22m | - | 99 |
 | 2026-05-31 | 晚间骑行 | VirtualRide | 2.4 km | 5m | - | 1 |
 | 2026-05-31 | 见鬼了，爆了三条胎 | Ride | 6.1 km | 26m | 456 m | 47 |
-| 2026-05-30 | ez z2 | VirtualRide | 93.4 km | 2h30m | - | 91 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
