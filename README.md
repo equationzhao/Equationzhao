@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 9 activities · 340.3 km · 10h25m · Load 454
+**Last 7 days:** 10 activities · 269.2 km · 8h47m · Load 407
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-05 | 杨浦区 公路骑行 | Ride | 1.8 km | 5m | 6 m | 1 |
+| 2026-06-05 | 这黄黄的是啥 | Ride | 20.3 km | 46m | 41 m | 43 |
+| 2026-06-05 | 傍晚骑行 | Ride | 1.9 km | 6m | 2 m | 1 |
+| 2026-06-05 | 晨间骑行 | Ride | 1.8 km | 5m | 6 m | 1 |
 | 2026-06-04 | 室内骑行 | VirtualRide | 10.4 km | 25m | - | 9 |
 | 2026-06-03 | 世界自行车日 | Ride | 61.2 km | 2h00m | - | 83 |
-| 2026-06-02 | Z2 Endurance🐫 | VirtualRide | 84.0 km | 2h30m | - | 123 |
-| 2026-06-01 | 🥵 | VirtualRide | 81.0 km | 2h22m | - | 99 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
