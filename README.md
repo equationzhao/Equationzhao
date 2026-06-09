@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 10 activities · 347.2 km · 12h18m · Load 611
+**Last 7 days:** 13 activities · 274.0 km · 10h18m · Load 497
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-08 | Night Ride | Ride | 10.7 km | 31m | 3 m | 9 |
 | 2026-06-07 | Afternoon Ride | Ride | 13.7 km | 30m | - | 23 |
 | 2026-06-07 | Afternoon Ride | Ride | 37.9 km | 1h22m | 65 m | 67 |
 | 2026-06-06 | 观顶湖雪窦山雨骑🫨 | Ride | 116.0 km | 4h31m | 1263 m | 261 |
 | 2026-06-05 | 这黄黄的是啥 | Ride | 20.3 km | 46m | 41 m | 43 |
-| 2026-06-05 | 傍晚骑行 | Ride | 1.9 km | 6m | 2 m | 1 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
