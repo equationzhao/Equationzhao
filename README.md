@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 12 activities · 308.3 km · 12h03m · Load 622
+**Last 7 days:** 10 activities · 302.3 km · 11h51m · Load 592
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-11 | Night Ride | Ride | 18.0 km | 45m | 9 m | 15 |
 | 2026-06-10 | Heat Training | VirtualRide | 64.9 km | 1h59m | - | 109 |
 | 2026-06-09 | Endurance | Ride | 41.1 km | 2h10m | - | 108 |
 | 2026-06-08 | Night Ride | Ride | 10.7 km | 31m | 3 m | 9 |
 | 2026-06-07 | Afternoon Ride | Ride | 13.7 km | 30m | - | 23 |
-| 2026-06-07 | Afternoon Ride | Ride | 37.9 km | 1h22m | 65 m | 67 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
