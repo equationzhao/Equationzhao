@@ -15,9 +15,9 @@
 #### 📊 Lifetime Stats
 | | Ride | Run |
 | --- | --- | --- |
-| Distance | 20159.0 km | 474.6 km |
-| Time | 781h 13m | 60h 46m |
-| Activities | 818 | 208 |
+| Distance | 20160.4 km | 474.6 km |
+| Time | 781h 18m | 60h 46m |
+| Activities | 819 | 208 |
 | Elevation Gain | 83.8 km | 3.3 km |
 
 #### 🏆 Personal Records
