@@ -15,13 +15,13 @@
 #### 📊 Lifetime Stats
 | | Ride | Run |
 | --- | --- | --- |
-| Distance | 20160.4 km | 474.6 km |
-| Time | 781h 18m | 60h 46m |
-| Activities | 819 | 208 |
-| Elevation Gain | 83.8 km | 3.3 km |
+| Distance | 20475.8 km | 474.6 km |
+| Time | 790h 23m | 60h 46m |
+| Activities | 820 | 208 |
+| Elevation Gain | 84.4 km | 3.3 km |
 
 #### 🏆 Personal Records
-- 🚴 Longest Ride: 233.9 km
+- 🚴 Longest Ride: 315.3 km
 - ⛰️ Biggest Climb: 0.8 km
 <!-- STRAVA_PROFILE:END -->
 
