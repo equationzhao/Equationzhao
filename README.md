@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 10 activities · 187.8 km · 7h23m · Load 332
+**Last 7 days:** 10 activities · 451.6 km · 14h36m · Load 680
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-13 | 环太湖 | Ride | 315.3 km | 9h05m | 626 m | 438 |
 | 2026-06-13 | Morning Ride | Ride | 1.5 km | 4m | 5 m | 1 |
 | 2026-06-11 | Night Ride | Ride | 18.0 km | 45m | 9 m | 15 |
 | 2026-06-10 | Heat Training | VirtualRide | 64.9 km | 1h59m | - | 109 |
-| 2026-06-09 | Endurance | Ride | 41.1 km | 2h10m | - | 108 |
-| 2026-06-08 | Night Ride | Ride | 10.7 km | 31m | 3 m | 9 |
+| 2026-06-10 | 临沂市 公路骑行 | Ride | 0.0 km | 0m | - | 0 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
