@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 10 activities · 451.6 km · 14h36m · Load 680
+**Last 7 days:** 10 activities · 461.8 km · 15h16m · Load 695
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-14 | 晚间骑行 | VirtualRide | 13.8 km | 27m | 65 m | 13 |
+| 2026-06-14 | MyWhoosh - Endurance Climb | VirtualRide | 0.2 km | 10m | - | 3 |
+| 2026-06-14 | 复活吧我的Garmin！ | VirtualRide | - | 10m | - | 3 |
 | 2026-06-13 | 环太湖 | Ride | 315.3 km | 9h05m | 626 m | 438 |
 | 2026-06-13 | Morning Ride | Ride | 1.5 km | 4m | 5 m | 1 |
-| 2026-06-11 | Night Ride | Ride | 18.0 km | 45m | 9 m | 15 |
-| 2026-06-10 | Heat Training | VirtualRide | 64.9 km | 1h59m | - | 109 |
-| 2026-06-10 | 临沂市 公路骑行 | Ride | 0.0 km | 0m | - | 0 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
