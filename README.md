@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 10 activities · 461.8 km · 15h16m · Load 695
+**Last 7 days:** 8 activities · 460.9 km · 14h13m · Load 644
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-15 | Zwift - Intervals icu: Z2 Endurance | VirtualRide | 47.2 km | 1h30m | 272 m | 62 |
 | 2026-06-14 | 晚间骑行 | VirtualRide | 13.8 km | 27m | 65 m | 13 |
 | 2026-06-14 | MyWhoosh - Endurance Climb | VirtualRide | 0.2 km | 10m | - | 3 |
 | 2026-06-14 | 复活吧我的Garmin！ | VirtualRide | - | 10m | - | 3 |
 | 2026-06-13 | 环太湖 | Ride | 315.3 km | 9h05m | 626 m | 438 |
-| 2026-06-13 | Morning Ride | Ride | 1.5 km | 4m | 5 m | 1 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
