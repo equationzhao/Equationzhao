@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 7 activities · 237.1 km · 9h34m · Load 431
+**Last 7 days:** 7 activities · 345.0 km · 14h57m · Load 666
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-21 | 放松和专注(短) | Workout | - | 5m | - | 0 |
+| 2026-06-21 | 杨浦区 骑行 | Ride | 1.2 km | 5m | - | 0 |
+| 2026-06-20 | 东西白山-天气太好啦 | Ride | 120.7 km | 5h59m | 2716 m | 254 |
 | 2026-06-19 | 雨骑递筏线 | Ride | 100.1 km | 3h48m | 1312 m | 218 |
 | 2026-06-18 | recovery ride | VirtualRide | 12.6 km | 56m | 470 m | 24 |
-| 2026-06-16 | Z2 Endurance | VirtualRide | 63.2 km | 2h30m | 1190 m | 108 |
-| 2026-06-15 | Zwift - Intervals icu: Z2 Endurance | VirtualRide | 47.2 km | 1h30m | 272 m | 62 |
-| 2026-06-14 | 晚间骑行 | VirtualRide | 13.8 km | 27m | 65 m | 13 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
