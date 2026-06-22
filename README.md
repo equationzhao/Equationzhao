@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 7 activities · 345.0 km · 14h57m · Load 666
+**Last 7 days:** 7 activities · 351.5 km · 15h28m · Load 686
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-21 | Zwift - Loop de Loop in Watopia | VirtualRide | 53.7 km | 2h00m | 834 m | 82 |
 | 2026-06-21 | 放松和专注(短) | Workout | - | 5m | - | 0 |
-| 2026-06-21 | 杨浦区 骑行 | Ride | 1.2 km | 5m | - | 0 |
+| 2026-06-21 | Afternoon Ride | Ride | 1.2 km | 5m | - | 0 |
 | 2026-06-20 | 东西白山-天气太好啦 | Ride | 120.7 km | 5h59m | 2716 m | 254 |
 | 2026-06-19 | 雨骑递筏线 | Ride | 100.1 km | 3h48m | 1312 m | 218 |
-| 2026-06-18 | recovery ride | VirtualRide | 12.6 km | 56m | 470 m | 24 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
