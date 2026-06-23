@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 7 activities · 351.5 km · 15h28m · Load 686
+**Last 7 days:** 8 activities · 313.5 km · 14h19m · Load 622
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-22 | 放松和专注(短) | Workout | - | 5m | - | 0 |
+| 2026-06-22 | Zwift - Climb Portal: Col du Galibier (Valloire) at 100% Elevation in France | VirtualRide | 25.2 km | 1h17m | 703 m | 44 |
 | 2026-06-21 | Zwift - Loop de Loop in Watopia | VirtualRide | 53.7 km | 2h00m | 834 m | 82 |
 | 2026-06-21 | 放松和专注(短) | Workout | - | 5m | - | 0 |
 | 2026-06-21 | Afternoon Ride | Ride | 1.2 km | 5m | - | 0 |
-| 2026-06-20 | 东西白山-天气太好啦 | Ride | 120.7 km | 5h59m | 2716 m | 254 |
-| 2026-06-19 | 雨骑递筏线 | Ride | 100.1 km | 3h48m | 1312 m | 218 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
