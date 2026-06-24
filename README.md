@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 8 activities · 313.5 km · 14h19m · Load 622
+**Last 7 days:** 9 activities · 352.4 km · 15h56m · Load 734
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-23 | Hard Start VO2max🌚 | VirtualRide | 38.9 km | 1h37m | - | 112 |
 | 2026-06-22 | 放松和专注(短) | Workout | - | 5m | - | 0 |
 | 2026-06-22 | Zwift - Climb Portal: Col du Galibier (Valloire) at 100% Elevation in France | VirtualRide | 25.2 km | 1h17m | 703 m | 44 |
 | 2026-06-21 | Zwift - Loop de Loop in Watopia | VirtualRide | 53.7 km | 2h00m | 834 m | 82 |
 | 2026-06-21 | 放松和专注(短) | Workout | - | 5m | - | 0 |
-| 2026-06-21 | Afternoon Ride | Ride | 1.2 km | 5m | - | 0 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
