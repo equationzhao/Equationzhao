@@ -15,10 +15,10 @@
 #### 📊 Lifetime Stats
 | | Ride | Run |
 | --- | --- | --- |
-| Distance | 20966.5 km | 474.6 km |
-| Time | 811h 53m | 60h 46m |
-| Activities | 833 | 208 |
-| Elevation Gain | 92.1 km | 3.3 km |
+| Distance | 21023.3 km | 474.6 km |
+| Time | 813h 54m | 60h 46m |
+| Activities | 834 | 208 |
+| Elevation Gain | 92.8 km | 3.3 km |
 
 #### 🏆 Personal Records
 - 🚴 Longest Ride: 315.3 km
