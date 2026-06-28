@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 9 activities · 232.1 km · 9h43m · Load 476
+**Last 7 days:** 8 activities · 252.6 km · 9h57m · Load 505
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-06-28 | 连贯呼吸 | Workout | - | 15m | - | 1 |
+| 2026-06-27 | Z2 Endurance🐫 | Ride | 75.4 km | 2h11m | - | 110 |
 | 2026-06-26 | Anaerobic Capacity Development | VirtualRide | 51.6 km | 2h13m | - | 150 |
 | 2026-06-25 | Zwift - Intervals icu: Z2 Endurance | VirtualRide | 61.5 km | 2h00m | - | 87 |
 | 2026-06-25 | 连贯呼吸 | Workout | - | 17m | - | 1 |
-| 2026-06-23 | Hard Start VO2max🌚 | VirtualRide | 38.9 km | 1h37m | - | 112 |
-| 2026-06-22 | 放松和专注(短) | Workout | - | 5m | - | 0 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
