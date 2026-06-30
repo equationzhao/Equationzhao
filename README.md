@@ -16,8 +16,8 @@
 | | Ride | Run |
 | --- | --- | --- |
 | Distance | 21283.8 km | 474.6 km |
-| Time | 822h 19m | 60h 46m |
-| Activities | 837 | 208 |
+| Time | 822h 39m | 60h 46m |
+| Activities | 838 | 208 |
 | Elevation Gain | 93.6 km | 3.3 km |
 
 #### 🏆 Personal Records
