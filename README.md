@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 7 activities · 296.8 km · 12h11m · Load 579
+**Last 7 days:** 6 activities · 459.6 km · 19h28m · Load 978
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-05 | 湖州市 公路骑行 | Ride | 162.8 km | 8h09m | 1864 m | 410 |
 | 2026-07-04 | 我在湖州骑环法 D1 | Ride | 182.1 km | 6h50m | 2679 m | 326 |
 | 2026-07-02 | 晚间骑行 | VirtualRide | 26.3 km | 1h01m | 3 m | 56 |
 | 2026-07-02 | 杨浦区 公路骑行 | Ride | 1.7 km | 5m | 3 m | 1 |
 | 2026-07-01 | Heat Training 🌡️ | VirtualRide | 30.2 km | 1h27m | - | 56 |
-| 2026-06-30 | sst 20min*3 | VirtualRide | 56.5 km | 1h55m | - | 129 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
