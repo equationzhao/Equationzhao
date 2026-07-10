@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 5 activities · 433.9 km · 18h30m · Load 849
+**Last 7 days:** 6 activities · 513.7 km · 20h50m · Load 966
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-09 | LT1 | VirtualRide | 79.8 km | 2h20m | - | 117 |
 | 2026-07-08 | Z2 Endurance | VirtualRide | 60.1 km | 2h11m | - | 82 |
 | 2026-07-07 | recovery ride | VirtualRide | 19.7 km | 49m | - | 22 |
 | 2026-07-06 | 晚间骑行 | Ride | 9.2 km | 30m | - | 9 |
 | 2026-07-05 | 湖州环法模拟 day2 | Ride | 162.8 km | 8h09m | 3799 m | 410 |
-| 2026-07-04 | 我在湖州骑环法 D1 | Ride | 182.1 km | 6h50m | 2679 m | 326 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
