@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 10 activities · 360.0 km · 12h05m · Load 475
+**Last 7 days:** 11 activities · 326.7 km · 11h05m · Load 442
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-14 | 室内骑行 | VirtualRide | 4.6 km | 19m | - | 2 |
+| 2026-07-14 | CP 12 TEST 😇 | VirtualRide | 22.1 km | 51m | - | 56 |
 | 2026-07-14 | 室内骑行 | VirtualRide | 5.6 km | 14m | - | 6 |
 | 2026-07-13 | 室内骑行 | VirtualRide | 7.5 km | 19m | - | 4 |
-| 2026-07-13 | CP 3 TEST 😇 | Ride | 16.7 km | 44m | - | 52 |
-| 2026-07-12 | 室内骑行 | VirtualRide | 20.9 km | 49m | - | 17 |
-| 2026-07-12 | 好饿😇 | VirtualRide | 78.5 km | 2h30m | - | 101 |
+| 2026-07-13 | CP 3 TEST 😇 | Ride | 16.7 km | 44m | - | 43 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
