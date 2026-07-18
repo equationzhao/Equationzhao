@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 11 activities · 372.3 km · 12h29m · Load 527
+**Last 7 days:** 12 activities · 422.6 km · 14h58m · Load 662
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-18 | 香榧林湖塘港 | Ride | 98.9 km | 3h49m | 1704 m | 185 |
+| 2026-07-18 | 放松和专注(短) | Workout | - | 5m | - | 1 |
+| 2026-07-18 | 杨浦区 公路骑行 | Ride | 22.3 km | 48m | 43 m | 26 |
 | 2026-07-16 | SST | VirtualRide | 66.9 km | 1h53m | - | 119 |
 | 2026-07-15 | Z2 Endurance 🐫 | VirtualRide | 78.6 km | 2h30m | - | 102 |
-| 2026-07-14 | 室内骑行 | VirtualRide | 4.6 km | 19m | - | 2 |
-| 2026-07-14 | CP 12 TEST 😇 | VirtualRide | 22.1 km | 51m | - | 56 |
-| 2026-07-14 | 室内骑行 | VirtualRide | 5.6 km | 14m | - | 6 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
