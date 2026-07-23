@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 8 activities · 398.2 km · 12h52m · Load 596
+**Last 7 days:** 9 activities · 385.4 km · 12h59m · Load 575
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-22 | Night Ride | Ride | - | 20m | - | 1 |
+| 2026-07-22 | Low cadence🦵🧨 | VirtualRide | 54.0 km | 1h40m | - | 105 |
 | 2026-07-21 | Z2 Endurance + Heat😱 | Ride | 99.4 km | 2h50m | - | 121 |
 | 2026-07-20 | 认真减肥中 | Ride | 24.2 km | 52m | - | 21 |
 | 2026-07-19 | 认真减肥中😭 | VirtualRide | 32.4 km | 1h01m | - | 27 |
-| 2026-07-19 | Z2 Endurance | VirtualRide | 54.1 km | 1h31m | - | 73 |
-| 2026-07-18 | 香榧林湖塘港 | Ride | 98.9 km | 3h49m | 1704 m | 198 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
