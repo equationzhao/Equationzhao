@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 11 activities · 391.4 km · 13h04m · Load 594
+**Last 7 days:** 10 activities · 405.5 km · 12h49m · Load 610
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-28 | TTE Development - SST 2x30min | Ride | 68.2 km | 1h45m | - | 122 |
 | 2026-07-27 | 公路骑行 | Ride | 17.6 km | 45m | 5 m | 18 |
 | 2026-07-26 | 傍晚骑行 | Ride | 9.3 km | 29m | 29 m | 6 |
 | 2026-07-26 | TDF! Ride like a PRO | Ride | 38.6 km | 1h32m | 132 m | 66 |
 | 2026-07-26 | 午后骑行 | Ride | 10.3 km | 26m | 33 m | 15 |
-| 2026-07-26 | low cadence🦵🧨 | Ride | 54.9 km | 1h35m | - | 103 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
