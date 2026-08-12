@@ -47,12 +47,12 @@
 - 2025 Hainan UCI Granfondo World Series S1 — P24
 - 2025 Hainan UCI Granfondo World Series S2 — P14
 - 2025 Hainan UCI Granfondo World Series S3 — P21
+- 2026 凤凰菲尼斯环浙步道 HEROS 开化站 - NDF(Crashed)
+- 2nd UCI Gran Fondo Hangzhou — DNS
 
 ## Race calendar
 
-- 2026 凤凰菲尼斯环浙步道 HEROS 开化站 — 29 Mar 2026
-- 2nd UCI Gran Fondo Hangzhou — 23–24 May 2026
-- UCI Gran Fondo World Championships (Niseko, Japan) — 26–30 Aug 2026
+None
 
 # Github state
 
