@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 4 activities · 240.8 km · 7h16m · Load 250
+**Last 7 days:** 6 activities · 297.0 km · 9h08m · Load 346
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-13 | Tiny Over/Under🫨 | Ride | 56.3 km | 1h39m | - | 96 |
+| 2026-08-13 | 室内骑行 | VirtualRide | - | 11m | - | 0 |
 | 2026-08-12 | Z2 Endurance 😮‍💨 | Ride | 82.5 km | 2h30m | - | 95 |
 | 2026-08-11 | 复活了 | Ride | 68.3 km | 2h01m | - | 74 |
 | 2026-08-10 | 室内骑行 | VirtualRide | 39.1 km | 1h15m | - | 23 |
-| 2026-08-09 | 😷？ | VirtualRide | 50.9 km | 1h30m | - | 58 |
-| 2026-08-06 | TTE Development - 2x25min🦵 | Ride | 58.3 km | 1h35m | - | 120 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
