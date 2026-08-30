@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 10 activities · 540.9 km · 17h54m · Load 750
+**Last 7 days:** 10 activities · 510.2 km · 19h19m · Load 764
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-30 | 闵行区 公路骑行 | Ride | 7.7 km | 22m | 17 m | 5 |
+| 2026-08-30 | 黄山市 公路骑行 | Ride | 2.1 km | 6m | 30 m | 2 |
+| 2026-08-30 | 三阳 | Ride | 106.7 km | 5h24m | 2378 m | 208 |
 | 2026-08-29 | 绩溪 | Ride | 128.9 km | 4h57m | 1612 m | 199 |
 | 2026-08-29 | 闵行区 公路骑行 | Ride | 4.7 km | 12m | 9 m | 4 |
-| 2026-08-28 | 杨浦区 公路骑行 | Ride | 23.5 km | 1h03m | 42 m | 21 |
-| 2026-08-27 | Z2 Endurance🐫 | Ride | 84.9 km | 2h30m | - | 114 |
-| 2026-08-26 | 室内骑行 | VirtualRide | 24.7 km | 43m | - | 24 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
