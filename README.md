@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 5 activities · 331.7 km · 11h01m · Load 608
+**Last 7 days:** 5 activities · 423.6 km · 13h35m · Load 738
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-13 | Endurance Ride | VirtualRide | 108.6 km | 3h10m | - | 147 |
 | 2026-09-12 | 四明山逃课版 | Ride | 109.4 km | 4h08m | 1818 m | 220 |
 | 2026-09-10 | 4*10 Threshold 🫪 | VirtualRide | 65.2 km | 1h50m | - | 130 |
 | 2026-09-09 | Z2 Endurance 🫠 | VirtualRide | 85.9 km | 2h30m | - | 118 |
 | 2026-09-08 | VO2Max Short Intervals / Heat | VirtualRide | 54.5 km | 1h55m | - | 123 |
-| 2026-09-07 | 室内骑行 | VirtualRide | 16.6 km | 35m | - | 17 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
