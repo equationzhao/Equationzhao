@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 5 activities · 424.6 km · 13h10m · Load 699
+**Last 7 days:** 6 activities · 462.2 km · 15h39m · Load 843
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-16 | 妙西镇 | Ride | 107.5 km | 4h28m | 2263 m | 255 |
+| 2026-09-15 | 室内骑行 | VirtualRide | 15.9 km | 31m | - | 7 |
 | 2026-09-14 | LT1😋 | VirtualRide | 55.5 km | 1h30m | - | 84 |
 | 2026-09-13 | Endurance Ride | VirtualRide | 108.6 km | 3h10m | - | 147 |
 | 2026-09-12 | 四明山逃课版 | Ride | 109.4 km | 4h08m | 1818 m | 220 |
-| 2026-09-10 | 4*10 Threshold 🫪 | VirtualRide | 65.2 km | 1h50m | - | 130 |
-| 2026-09-09 | Z2 Endurance 🫠 | VirtualRide | 85.9 km | 2h30m | - | 118 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
