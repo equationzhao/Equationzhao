@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 7 activities · 425.0 km · 15h01m · Load 667
+**Last 7 days:** 9 activities · 386.9 km · 14h49m · Load 633
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-28 | 温州市 跑步 | Run | 5.2 km | 33m | 1 m | 26 |
+| 2026-09-28 | 温州市 公路骑行 | Ride | 4.1 km | 16m | 6 m | 1 |
+| 2026-09-27 | Heat Training | VirtualRide | 30.1 km | 1h08m | - | 27 |
 | 2026-09-26 | 🥵☀️ | Ride | 54.8 km | 2h27m | 942 m | 99 |
 | 2026-09-25 | 朝阳山-石聚堂-排头村-反爬玉苍 | Ride | 120.5 km | 5h04m | 2222 m | 227 |
-| 2026-09-24 | 温州市 跑步 | Run | 6.0 km | 37m | 20 m | 30 |
-| 2026-09-24 | Evening Ride | Ride | 7.3 km | 28m | 9 m | 0 |
-| 2026-09-23 | 功率计飘了？ | VirtualRide | 65.7 km | 1h42m | - | 107 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
