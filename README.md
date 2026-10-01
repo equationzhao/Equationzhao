@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 10 activities · 275.0 km · 13h01m · Load 491
+**Last 7 days:** 10 activities · 411.9 km · 16h56m · Load 749
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-01 | 三上三下小玉苍（逃课版） | Ride | 67.6 km | 2h41m | 881 m | 158 |
+| 2026-09-30 | LT1 | VirtualRide | 82.6 km | 2h19m | 191 m | 130 |
 | 2026-09-29 | Garmin 冲刺训练 | Ride | 37.1 km | 1h11m | - | 62 |
 | 2026-09-29 | Evening Ride | Ride | 9.7 km | 47m | 16 m | 11 |
 | 2026-09-28 | 力量训练 | WeightTraining | - | 26m | - | 8 |
-| 2026-09-28 | 温州市 跑步 | Run | 5.2 km | 33m | 1 m | 26 |
-| 2026-09-28 | Afternoon Ride | Ride | 4.1 km | 16m | 6 m | 1 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
