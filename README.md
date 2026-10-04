@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 9 activities · 332.9 km · 12h42m · Load 557
+**Last 7 days:** 10 activities · 395.1 km · 15h07m · Load 700
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-04 | 时隔一年玉苍山全程 | Ride | 78.0 km | 3h01m | 1103 m | 160 |
+| 2026-10-03 | MyWhoosh - Seeblick Spin | VirtualRide | 14.3 km | 32m | 49 m | 10 |
 | 2026-10-02 | 福建分水关 | Ride | 96.3 km | 3h18m | 1108 m | 134 |
 | 2026-10-01 | 三上三下小玉苍（逃课版） | Ride | 67.6 km | 2h41m | 1278 m | 158 |
 | 2026-09-30 | LT1 | VirtualRide | 82.6 km | 2h19m | 191 m | 130 |
-| 2026-09-29 | Garmin 冲刺训练 | Ride | 37.1 km | 1h11m | - | 62 |
-| 2026-09-29 | Evening Ride | Ride | 9.7 km | 47m | 16 m | 11 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
