@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 7 activities · 529.3 km · 18h41m · Load 932
+**Last 7 days:** 7 activities · 461.6 km · 16h58m · Load 824
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-07 | MyWhoosh - Dragon Fury | VirtualRide | 14.9 km | 37m | 276 m | 22 |
 | 2026-10-06 | 观美-矾山-168（马站-崇家岙） | Ride | 150.1 km | 5h17m | 2249 m | 268 |
 | 2026-10-05 | MyWhoosh - Heart of Switzerland | VirtualRide | 40.4 km | 1h30m | 736 m | 72 |
 | 2026-10-04 | 时隔一年玉苍山全程 | Ride | 78.0 km | 3h01m | 1103 m | 160 |
 | 2026-10-03 | MyWhoosh - Seeblick Spin | VirtualRide | 14.3 km | 32m | 49 m | 10 |
-| 2026-10-02 | 福建分水关 | Ride | 96.3 km | 3h18m | 1108 m | 134 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
