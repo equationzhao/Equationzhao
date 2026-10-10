@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 7 activities · 315.9 km · 12h00m · Load 611
+**Last 7 days:** 7 activities · 319.0 km · 12h36m · Load 642
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-09 | MyWhoosh - The Mountain's Verdict | VirtualRide | 17.4 km | 1h08m | 750 m | 41 |
 | 2026-10-08 | MyWhoosh Hill Climb League | VirtualRide | 18.2 km | 50m | 872 m | 76 |
-| 2026-10-08 | 傍晚骑行 | Ride | - | 11m | - | 3 |
+| 2026-10-08 | 傍晚骑行 | VirtualRide | - | 11m | - | 3 |
 | 2026-10-07 | MyWhoosh - Dragon Fury | VirtualRide | 14.9 km | 37m | 276 m | 22 |
 | 2026-10-06 | 观美-矾山-168（马站-崇家岙） | Ride | 150.1 km | 5h17m | 2249 m | 268 |
-| 2026-10-05 | MyWhoosh - Heart of Switzerland | VirtualRide | 40.4 km | 1h30m | 736 m | 72 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
