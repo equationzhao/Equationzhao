@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 7 activities · 319.0 km · 12h36m · Load 642
+**Last 7 days:** 11 activities · 279.7 km · 11h52m · Load 571
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-10-09 | MyWhoosh - The Mountain's Verdict | VirtualRide | 17.4 km | 1h08m | 750 m | 41 |
-| 2026-10-08 | MyWhoosh Hill Climb League | VirtualRide | 18.2 km | 50m | 872 m | 76 |
-| 2026-10-08 | 傍晚骑行 | VirtualRide | - | 11m | - | 3 |
-| 2026-10-07 | MyWhoosh - Dragon Fury | VirtualRide | 14.9 km | 37m | 276 m | 22 |
-| 2026-10-06 | 观美-矾山-168（马站-崇家岙） | Ride | 150.1 km | 5h17m | 2249 m | 268 |
+| 2026-10-11 | MyWhoosh - Stage 2 | VirtualRide | 5.1 km | 8m | 33 m | 9 |
+| 2026-10-11 | 室内划船 | VirtualRow | - | 10m | - | 6 |
+| 2026-10-11 | 力量训练 | WeightTraining | - | 42m | - | 12 |
+| 2026-10-11 | MyWhoosh - Z2 Endurance | VirtualRide | 9.1 km | 30m | 279 m | 17 |
+| 2026-10-10 | MyWhoosh - Train with Tadej: Tempo Express | VirtualRide | 24.5 km | 45m | 199 m | 45 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
