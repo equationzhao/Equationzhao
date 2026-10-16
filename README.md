@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 10 activities · 243.6 km · 11h11m · Load 472
+**Last 7 days:** 10 activities · 90.9 km · 12h03m · Load 534
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-10-14 | Z2 Endurance | VirtualRide | 52.8 km | 2h30m | 1400 m | 88 |
-| 2026-10-13 | TTE Development - 4x20min | VirtualRide | 61.9 km | 2h19m | 1603 m | 162 |
-| 2026-10-12 | 傍晚 recovery ride 骑行 | VirtualRide | 20.6 km | 1h05m | 392 m | 28 |
+| 2026-10-15 | MyWhoosh - Endurance Ride | VirtualRide | - | 2h00m | - | 103 |
+| 2026-10-14 | Z2 Endurance | VirtualRide | - | 2h30m | - | 88 |
+| 2026-10-13 | TTE Development - 4x20min | VirtualRide | - | 2h19m | - | 162 |
+| 2026-10-12 | 傍晚 recovery ride 骑行 | VirtualRide | - | 1h05m | - | 28 |
 | 2026-10-11 | MyWhoosh - Z2 Endurance | VirtualRide | 52.2 km | 1h50m | 612 m | 64 |
-| 2026-10-11 | MyWhoosh - Stage 2 | VirtualRide | 5.1 km | 8m | 33 m | 9 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
