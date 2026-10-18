@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 10 activities · 184.4 km · 16h33m · Load 745
+**Last 7 days:** 6 activities · 246.3 km · 19h03m · Load 856
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-18 | 百丈漈-青田 | Ride | 128.3 km | 5h52m | 2144 m | 219 |
 | 2026-10-17 | 苍南-百丈漈 | Ride | 118.0 km | 5h14m | 2351 m | 256 |
 | 2026-10-15 | MyWhoosh - Endurance Ride | VirtualRide | - | 2h00m | - | 103 |
 | 2026-10-14 | Z2 Endurance | VirtualRide | - | 2h30m | - | 88 |
 | 2026-10-13 | TTE Development - 4x20min | VirtualRide | - | 2h19m | - | 162 |
-| 2026-10-12 | 傍晚 recovery ride 骑行 | VirtualRide | - | 1h05m | - | 28 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
