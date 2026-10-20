@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 5 activities · 246.3 km · 17h58m · Load 828
+**Last 7 days:** 7 activities · 256.0 km · 17h03m · Load 695
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-20 | 杨浦区 跑步 | Run | 2.3 km | 17m | 5 m | 10 |
+| 2026-10-19 | 杨浦区 跑步 | Run | 5.2 km | 34m | 53 m | 16 |
+| 2026-10-19 | Evening Walk | Walk | 2.3 km | 33m | 39 m | 3 |
 | 2026-10-18 | 百丈漈-青田 | Ride | 128.3 km | 5h52m | 2144 m | 219 |
 | 2026-10-17 | 苍南-百丈漈 | Ride | 118.0 km | 5h14m | 2351 m | 256 |
-| 2026-10-15 | MyWhoosh - Endurance Ride | VirtualRide | - | 2h00m | - | 103 |
-| 2026-10-14 | MyWhoosh - Z2 Endurance | VirtualRide | - | 2h30m | - | 88 |
-| 2026-10-13 | TTE Development - 4x20min | VirtualRide | - | 2h19m | - | 162 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
