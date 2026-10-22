@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 9 activities · 313.1 km · 16h11m · Load 728
+**Last 7 days:** 9 activities · 376.6 km · 16h41m · Load 711
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-21 | MyWhoosh - Z2 Endurance | VirtualRide | 63.5 km | 2h30m | 1047 m | 86 |
 | 2026-10-20 | Mission Stage 3: Train with Tadej Community ride | VirtualRide | 23.0 km | 37m | 35 m | 35 |
 | 2026-10-20 | MyWhoosh Crit Racing | VirtualRide | 17.3 km | 27m | 85 m | 67 |
 | 2026-10-20 | Evening Ride | Ride | 16.8 km | 32m | - | 19 |
 | 2026-10-20 | 杨浦区 跑步 | Run | 2.3 km | 17m | 5 m | 10 |
-| 2026-10-19 | 杨浦区 跑步 | Run | 5.2 km | 34m | 53 m | 16 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
