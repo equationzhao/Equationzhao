@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 12 activities · 163.1 km · 9h38m · Load 416
+**Last 7 days:** 11 activities · 230.8 km · 12h37m · Load 608
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-25 | endurance ride | VirtualRide | 75.2 km | 4h07m | 2631 m | 211 |
 | 2026-10-24 | MyWhoosh - Tokyo Drift | VirtualRide | 12.6 km | 25m | - | 12 |
 | 2026-10-24 | 乳酸阶梯测试 | VirtualRide | - | 1h09m | - | 68 |
 | 2026-10-23 | 力量训练 | WeightTraining | - | 1h07m | - | 16 |
 | 2026-10-23 | Night Virtual Ride | VirtualRide | - | 42m | - | 31 |
-| 2026-10-22 | MyWhoosh - Train with Tadej: Four by Four | VirtualRide | 20.1 km | 40m | 285 m | 53 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
