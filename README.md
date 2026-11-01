@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 8 activities · 298.5 km · 13h13m · Load 610
+**Last 7 days:** 9 activities · 9370.5 km · 13h37m · Load 563
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-01 | MyWhoosh - V3 W00｜11/1 启动Z2｜210分钟 | VirtualRide | 100.2 km | 3h37m | 1477 m | 147 |
+| 2026-11-01 | 力量训练 | WeightTraining | 9047.0 km | 54m | - | 17 |
 | 2026-10-31 | V3 W01｜健身房 G1 | WeightTraining | - | 50m | - | 16 |
 | 2026-10-31 | Ride With Tadej | VirtualRide | 26.9 km | 47m | 9 m | 34 |
 | 2026-10-31 | 室内骑行 | VirtualRide | - | 23m | - | 6 |
-| 2026-10-30 | MyWhoosh - Z2 Endurance | VirtualRide | 69.8 km | 2h35m | 991 m | 110 |
-| 2026-10-28 | MyWhoosh - Z2 Endurance | VirtualRide | 66.9 km | 2h30m | 1153 m | 107 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
