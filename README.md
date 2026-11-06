@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 10 activities · 9338.6 km · 12h24m · Load 475
+**Last 7 days:** 11 activities · 9353.1 km · 12h32m · Load 481
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-05 | MyWhoosh - Endurance @67% \| 2h40m \| W01 | VirtualRide | 84.3 km | 2h43m | 926 m | 116 |
 | 2026-11-03 | MyWhoosh - Sweet Spot 2x20min @90% \| 2h35m \| W01 | VirtualRide | 84.2 km | 2h35m | 514 m | 141 |
 | 2026-11-02 | 室内骑行 | VirtualRide | 10.5 km | 41m | - | 4 |
 | 2026-11-01 | Endurance @65% \| W00 | VirtualRide | 100.2 km | 3h37m | 1477 m | 147 |
 | 2026-11-01 | 力量训练 | WeightTraining | 9047.0 km | 54m | - | 17 |
-| 2026-10-31 | Gym - Strength Adaptation 2x10 \| W01 | WeightTraining | - | 50m | - | 16 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
