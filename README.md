@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 15 activities · 438.2 km · 17h48m · Load 706
+**Last 7 days:** 17 activities · 325.5 km · 14h00m · Load 512
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-13 | Evening Ride | Ride | 2.1 km | 7m | 9 m | 0 |
+| 2026-11-13 | Afternoon Ride | Ride | 2.1 km | 6m | 4 m | 1 |
+| 2026-11-13 | Lunch Ride | Ride | 2.0 km | 6m | 1 m | 2 |
+| 2026-11-13 | Morning Ride | Ride | 2.0 km | 7m | 3 m | 3 |
 | 2026-11-12 | MyWhoosh - tempo \|1h50m \| W02 | VirtualRide | 61.4 km | 1h50m | 371 m | 93 |
-| 2026-11-12 | 室内骑行 | VirtualRide | 40.0 km | 1h50m | - | 92 |
-| 2026-11-11 | 室内骑行 | VirtualRide | 9.9 km | 30m | - | 7 |
-| 2026-11-11 | 力量训练 | WeightTraining | - | 52m | - | 19 |
-| 2026-11-11 | 跑步机 | VirtualRun | 1.5 km | 17m | - | 4 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
