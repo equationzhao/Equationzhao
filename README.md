@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 17 activities · 325.5 km · 14h00m · Load 512
+**Last 7 days:** 16 activities · 389.8 km · 15h29m · Load 575
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-14 | 杨浦区 公路骑行 | Ride | 24.1 km | 1h20m | 52 m | 9 |
+| 2026-11-13 | MyWhoosh - Endurance @62% \| 3h \| W02 | VirtualRide | 71.2 km | 3h01m | 1705 m | 112 |
 | 2026-11-13 | Evening Ride | Ride | 2.1 km | 7m | 9 m | 0 |
 | 2026-11-13 | Afternoon Ride | Ride | 2.1 km | 6m | 4 m | 1 |
 | 2026-11-13 | Lunch Ride | Ride | 2.0 km | 6m | 1 m | 2 |
-| 2026-11-13 | Morning Ride | Ride | 2.0 km | 7m | 3 m | 3 |
-| 2026-11-12 | MyWhoosh - tempo \|1h50m \| W02 | VirtualRide | 61.4 km | 1h50m | 371 m | 93 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
