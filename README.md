@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 16 activities · 492.1 km · 22h11m · Load 1011
+**Last 7 days:** 17 activities · 389.1 km · 16h44m · Load 709
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-15 | 杭州市 骑行 | Ride | 108.2 km | 5h17m | 2948 m | 295 |
+| 2026-11-16 | 杨浦区 骑行 | Ride | 4.6 km | 15m | 8 m | 4 |
+| 2026-11-16 | 杨浦区 跑步 | Run | 4.3 km | 32m | 89 m | 13 |
+| 2026-11-16 | 杨浦区 骑行 | Ride | 4.7 km | 19m | 9 m | 3 |
+| 2026-11-16 | 杨浦区 骑行 | Ride | 1.7 km | 6m | 2 m | 1 |
 | 2026-11-15 | 林峰-萧山天路-安顶 | Ride | 108.2 km | 5h17m | 2948 m | 295 |
-| 2026-11-15 | Morning Ride | Ride | 2.5 km | 7m | 7 m | 2 |
-| 2026-11-14 | 杨浦区 公路骑行 | Ride | 24.1 km | 1h20m | 52 m | 9 |
-| 2026-11-13 | MyWhoosh - Endurance @62% \| 3h \| W02 | VirtualRide | 71.2 km | 3h01m | 1705 m | 112 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
