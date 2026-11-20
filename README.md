@@ -28,17 +28,17 @@
 ## Intervals.icu
 
 <!-- INTERVALS_ICU:START -->
-**Last 7 days:** 17 activities · 374.4 km · 16h45m · Load 727
+**Last 7 days:** 13 activities · 335.5 km · 15h16m · Load 698
 
 ![Training load last 30 days](assets/intervals-load.svg)
 
 | Date | Activity | Type | Distance | Time | Elevation | Load |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-20 | MyWhoosh - Mount Fuji | VirtualRide | 40.4 km | 2h00m | 1348 m | 89 |
 | 2026-11-19 | 室内骑行 | VirtualRide | 3.9 km | 20m | - | 7 |
 | 2026-11-19 | MyWhoosh - VO2MAX 7x3 @115% | VirtualRide | 38.6 km | 1h20m | 501 m | 105 |
 | 2026-11-18 | Gym - Load Progression 3x8 \| 1h10m \| W03 | WeightTraining | - | 36m | - | 9 |
 | 2026-11-17 | MyWhoosh - Sweet Spot 2x25min @90% \| 2h50m \| W03 | VirtualRide | 100.6 km | 2h51m | - | 160 |
-| 2026-11-17 | Morning Ride | Ride | 1.9 km | 7m | 2 m | 1 |
 <!-- INTERVALS_ICU:END -->
 
 ## Cycling results
